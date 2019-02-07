@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/KORUSH-KABIR/FlasherImageView.svg)](https://jitpack.io/#KORUSH-KABIR/FlasherImageView)
 
-![DemoVideo](https://github.com/KORUSH-KABIR/FlasherImageView/blob/master/gif/sample.mp4)
+![DemoVideo](https://github.com/KORUSH-KABIR/FlasherImageView/blob/master/sample/sample.mp4)
 
 # Step 1. Add the JitPack repository to your build file
 
