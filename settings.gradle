@@ -1,0 +1,1 @@
+include ':app', ':flasher_image_view'
