@@ -2,6 +2,8 @@
 
 [![](https://jitpack.io/v/KORUSH-KABIR/FlasherImageView.svg)](https://jitpack.io/#KORUSH-KABIR/FlasherImageView)
 
+![GifSampleShop](https://github.com/KORUSH-KABIR/FlasherImageView/blob/master/gif/sreen.gif)
+
 # Step 1. Add the JitPack repository to your build file
 
 Add it in your root build.gradle at the end of repositories:
