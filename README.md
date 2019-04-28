@@ -1,8 +1,5 @@
 # FlasherImageView
 
-[![](https://jitpack.io/v/KORUSH-KABIR/FlasherImageView.svg)](https://jitpack.io/#KORUSH-KABIR/FlasherImageView)
-
-![DemoVideo](https://github.com/KORUSH-KABIR/FlasherImageView/blob/master/sample/videoSample.mp4)
 
 # Step 1. Add the JitPack repository to your build file
 
@@ -18,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 # Step 2. Add the dependency
 
     dependencies {
-           implementation 'com.github.KORUSH-KABIR:FlasherImageView:1.0.0'
+    
     }
 
 
@@ -26,7 +23,7 @@ Add it in your root build.gradle at the end of repositories:
 
 in xml:
 
-    <ir.phoenix_iran.FlasherImageView
+    <ir.farsroidx.FlasherImageView
         android:id="@+id/fiv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
