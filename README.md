@@ -1,5 +1,6 @@
 # FlasherImageView
 
+[![](https://jitpack.io/v/farsroidx/FlasherImageView.svg)](https://jitpack.io/#farsroidx/FlasherImageView)
 
 # Step 1. Add the JitPack repository to your build file
 
